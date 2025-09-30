@@ -1,42 +1,42 @@
 # Animated Docker Folder Icons for Unraid
 [![License](https://img.shields.io/github/license/ground7/unraid-animated-svgs)](./LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/ground7/unraid-animated-svgs/total.svg)](https://github.com/ground7/unraid-animated-svgs/releases/tag/v1.0.0)
+[![Downloads](https://img.shields.io/github/downloads/LayeredMuse/unraid-animated-svgs/total.svg)](https://github.com/LayeredMuse/unraid-animated-svgs/releases/tag/v1.0.0)
 
 **Please Note** that only the always-animate variant works with the docker folder plugin as of the most recent release. I'll be leaving animate-on-hover up in case anyone wants to use them in another application where hovering works as intended.
 
 ## Collection
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/audio.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/audio.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/backup.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/backup.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/binoculars.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/binoculars.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/code.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/code.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/database.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/database.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/eye.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/eye.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/home-wifi.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/home-wifi.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/multimedia-alternate.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/multimedia-alternate.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/vpn.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/vpn.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/world.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/world.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/audio.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/audio.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/backup.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/backup.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/binoculars.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/binoculars.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/code.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/code.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/database.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/database.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/eye.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/eye.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/home-wifi.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/home-wifi.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/multimedia-alternate.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/multimedia-alternate.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/vpn.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/vpn.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/world.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/world.svg)
 
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/control.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/control.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/multimedia.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/multimedia.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/music.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/music.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/nzb.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/nzb.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/pirate.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/pirate.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/search.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/search.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/security.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/security.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/settings.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/settings.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/ship.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/ship.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/torrent.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/torrent.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/control.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/control.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/multimedia.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/multimedia.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/music.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/music.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/nzb.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/nzb.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/pirate.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/pirate.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/search.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/search.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/security.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/security.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/settings.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/settings.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/ship.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/ship.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/torrent.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/torrent.svg)
 
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/cloud.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/cloud.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/dash.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/dash.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/dependencies.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/dependencies.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/downloads.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/downloads.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/gaming.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/gaming.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/grafana.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/grafana.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/home-automation.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/home-automation.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/network.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/network.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/plex.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/plex.svg)
-[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/productivity.svg" width="75" height="75">](https://github.com/ground7/unraid-animated-svgs/blob/master/Always%20Animate/productivity.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/cloud.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/cloud.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/dash.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/dash.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/dependencies.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/dependencies.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/downloads.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/downloads.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/gaming.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/gaming.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/grafana.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/grafana.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/home-automation.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/home-automation.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/network.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/network.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/plex.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/plex.svg)
+[<img src="https://raw.githubusercontent.com/LayeredMuse/unraid-animated-svgs/master/Always%20Animate/productivity.svg" width="75" height="75">](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/Always%20Animate/productivity.svg)
 
 ## How to Tweak
 To change a color look for
@@ -45,7 +45,7 @@ fill="####"
 ```
 and switch the number to the desired 6-digit RGB hex code.
 
-For more complicated tweaks that don't affect the animation, I suggest using [inkscape](https://github.com/inkscape/inkscape). Be careful to not change the groupings or the animation will break. Inkscape will add a lot of useless metadata to the svg after saving. If you'd like to clean it up, I suggest using [svgocd](https://github.com/Shtian/vscode-svgocd) with [this yaml](https://github.com/ground7/unraid-animated-svgs/blob/master/.svgo.yml).
+For more complicated tweaks that don't affect the animation, I suggest using [inkscape](https://github.com/inkscape/inkscape). Be careful to not change the groupings or the animation will break. Inkscape will add a lot of useless metadata to the svg after saving. If you'd like to clean it up, I suggest using [svgocd](https://github.com/Shtian/vscode-svgocd) with [this yaml](https://github.com/LayeredMuse/unraid-animated-svgs/blob/master/.svgo.yml).
 
 ## Requests
 I am currently taking requests for icons to be animated. If you'd like me to animate an svg icon fill out the following issue template.
